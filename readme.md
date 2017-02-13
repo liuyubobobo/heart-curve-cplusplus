@@ -6,7 +6,7 @@ We blog an small artical about these codes in [**imooc.com**](http://www.imooc.c
 
 ---
 
-files [main.cpp](https://github.com/liuyubobobo/heart-curve-cplusplus/blob/master/main.cpp) and [main2.cpp](https://github.com/liuyubobobo/heart-curve-cplusplus/blob/master/main2.cpp) are based the heart curve equation as follows:
+files [main.cpp](https://github.com/liuyubobobo/heart-curve-cplusplus/blob/master/main.cpp) and [main2.cpp](https://github.com/liuyubobobo/heart-curve-cplusplus/blob/master/main2.cpp) are based on the heart curve equation as follows:
 
 ![heart shape equation 1](https://github.com/liuyubobobo/heart-curve-cplusplus/blob/master/Resources/heart1-equation.jpg?raw=true)
 
@@ -30,7 +30,7 @@ Please enjoy!
 
 ---
 
-If you have more ideas about how to draw a heart shape curve or any other beautiful shape curves, welcome to contact me. I'm looking forward to discussing the beauty of mathematics and computer science with you!
+If you have more ideas about how to draw a heart shape curve or any other beautiful shape curves, please contact me. I'm looking forward to discussing the beauty of mathematics and computer science with you!
 
 **Personal Website**: [liuyubobobo.com](http://liuyubobobo.com)
 
