@@ -1,6 +1,10 @@
 ##Happy Valentine's Day in 2017
 
-In this repo, we use C++ to draw a heart shape in your command line! The code is easy, short and fantastic:)
+In this repo, I use C++ to draw a heart shape in the command line console! The code is easy, short and fantastic:)
+
+We blog an small artical about these codes in [**imooc.com**](http://www.imooc.com), one of the toppest MOOC website in China. You could view this blog [**here**](http://www.imooc.com/article/16359).
+
+---
 
 files [main.cpp](https://github.com/liuyubobobo/heart-curve-cplusplus/blob/master/main.cpp) and [main2.cpp](https://github.com/liuyubobobo/heart-curve-cplusplus/blob/master/main2.cpp) are based the heart curve equation as follows:
 
