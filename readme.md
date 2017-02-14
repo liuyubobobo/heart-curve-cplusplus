@@ -26,6 +26,12 @@ And the result of [main3.cpp](https://github.com/liuyubobobo/heart-curve-cpluspl
 
 ![main3.cpp](https://github.com/liuyubobobo/heart-curve-cplusplus/blob/master/Resources/heart-3.png?raw=true) 
 
+Inspired by @甲铁城的卡巴司机 in my class group, I added two more examples - [main4.cpp](https://github.com/liuyubobobo/heart-curve-cplusplus/blob/master/main4.cpp) and [main5.cpp](https://github.com/liuyubobobo/heart-curve-cplusplus/blob/master/main5.cpp). Both of them fill the heart shape with characters, using above two heart shape equations. The effects look like as follows:
+
+![main4.cpp](https://github.com/liuyubobobo/heart-curve-cplusplus/blob/master/Resources/heart-4.png?raw=true)
+
+![main5.cpp](https://github.com/liuyubobobo/heart-curve-cplusplus/blob/master/Resources/heart-5.png?raw=true)
+
 Please enjoy!
 
 ---
