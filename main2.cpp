@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// 镂空效果的心形
+// The first heart shape in hollow
 // (x^2+y^2-1)^3 - x^2*y^3 = 0
 // y ~ (-1.1 , 1.3 )
 // x ~ (-1.2 , 1.2 )
