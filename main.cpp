@@ -14,7 +14,7 @@ int main() {
             if( pow((x*x+y*y-1.0),3) - x*x*y*y*y <= 0.0 )
                 cout<<'@';
             else
-                cout<<" ";
+                cout<<' ';
         cout<<endl;
     }
 
