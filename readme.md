@@ -2,7 +2,7 @@
 
 In this repo, I use C++ to draw a heart shape in the command line console! The code is easy, short and fantastic:)
 
-We blog an small artical about these codes in [**imooc.com**](http://www.imooc.com), one of the toppest MOOC website in China. You could view this blog [**here**](http://www.imooc.com/article/16359).
+I've blogged a small article about these codes in [**imooc.com**](http://www.imooc.com), one of the toppest MOOC websites in China. You could view this blog [**here**](http://www.imooc.com/article/16359).
 
 ---
 
