@@ -38,17 +38,6 @@ Please enjoy!
 
 If you have more ideas about how to draw a heart shape curve or any other beautiful shape curves, please contact me. I'm looking forward to discussing the beauty of mathematics and computer science with you!
 
-**Personal Website**: [liuyubobobo.com](http://liuyubobobo.com)
-
-**Email**: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
-
-**Weibo**: [刘宇波bobo http://weibo.com/liuyubobobo](http://weibo.com/liuyubobobo)
-
-**Zhihu**: [刘宇波 http://www.zhihu.com/people/liuyubobobo](http://www.zhihu.com/people/liuyubobobo)
-
-**WeChat**: liuyubobobo. Please comment **github** when you add me as a friend.
-
----
 
 **个人网站**：[liuyubobobo.com](http://liuyubobobo.com)
 
@@ -58,4 +47,8 @@ If you have more ideas about how to draw a heart shape curve or any other beauti
 
 **知乎**: [刘宇波 http://www.zhihu.com/people/liuyubobobo](http://www.zhihu.com/people/liuyubobobo)
 
-**微信**: liuyubobobo. 请备注 **github**.
+**知乎专栏：**[是不是很酷 https://zhuanlan.zhihu.com/liuyubobobo](https://zhuanlan.zhihu.com/liuyubobobo)
+
+**个人公众号：是不是很酷**：）
+
+![QRCode](qrcode.jpg)
